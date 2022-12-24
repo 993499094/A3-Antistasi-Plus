@@ -13,7 +13,7 @@ class CfgDiscordRichPresence
     defaultDetails="";
     defaultState="";
     defaultLargeImageKey="tanoa";
-    defaultLargeImageText="Antistasi Plus - Horizon Islands";
+    defaultLargeImageText="Antistasi Plus - 地平线群岛";
     defaultSmallImageKey="arma_3_logo";
     defaultSmallImageText="Arma 3 Custom Scenario";
     useTimeElapsed=1;
@@ -39,24 +39,24 @@ class CfgDebriefing {
 	class End1
 	{
 		title = "V I C T O R Y";
-		subtitle = "Tanoa is Ours!";
-		description = "The population of Tanoa loves you!<br/>The SDK brave soldiers have proven their valour, and Petros, Tanoa new Prime Minister, could at last to have a nice holiday. A deserved rest in a Greek island with drinks and fine food.";
+		subtitle = "地平线群岛是我们的!";
+		description = "地平线群岛的居民爱戴你们!<br/>勇敢的反抗军士兵已经证明了他们的英勇，而地平线群岛的新总理也终于可以享受一个愉快的假期。在希腊的一个小岛上，在饮料和美食中得到应有的休息。";
 		picture = "n_inf";
 		pictureColor[] = {0.0,0.5,0.0,1};
 	};
     class petrosDead
     {
-        title = "Maru is Dead";
-        subtitle = "Maru is Dead";
-        description = "Congratulations!: Maru is Dead. Now with Syndikat without a leader, you may think about joining them, and free Tanoa";
+        title = "反抗军完蛋了";
+        subtitle = "反抗军完蛋了";
+        description = "恭喜你们!: 反抗军已经完蛋了。现在反抗军没有领导人，你可以考虑加入他们，并解放地平线群岛。";
         picture = "b_unknown";
         pictureColor[] = {0.5,0.0,0.0,1};
     };
     class destroyedSites
     {
-        title = "Tanoa is Destroyed";
-        subtitle = "Tanoa got Destroyed by OPFOR";
-        description = "One third of the population in Tanoa has been murdered by OPFOR.<br/>Tanoa no longer exists, nobody wants to live here.";
+        title = "地平线群岛被毁灭了";
+        subtitle = "地平线群岛被美帝主义野心狼摧毁了";
+        description = "地平线群岛三分之一的人口已被美军杀害.<br/>地平线群岛已不再存在，没有人愿意再住在这里。";
         picture = "b_unknown";
         pictureColor[] = {0.5,0.0,0.0,1};
     };
